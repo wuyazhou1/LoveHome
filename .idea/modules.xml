@@ -4,9 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LoveHome.iml" filepath="$PROJECT_DIR$/LoveHome.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homelibrary/homelibrary.iml" filepath="$PROJECT_DIR$/homelibrary/homelibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/homelibrary/homelibrary.iml" filepath="$PROJECT_DIR$/homelibrary/homelibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/minelibrary/minelibrary.iml" filepath="$PROJECT_DIR$/minelibrary/minelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minelibrary/minelibrary.iml" filepath="$PROJECT_DIR$/minelibrary/minelibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/publishlibrary/publishlibrary.iml" filepath="$PROJECT_DIR$/publishlibrary/publishlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publishlibrary/publishlibrary.iml" filepath="$PROJECT_DIR$/publishlibrary/publishlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinjianlin.iml" filepath="$PROJECT_DIR$/yinjianlin.iml" />
     </modules>
   </component>
 </project>
