@@ -6,23 +6,5 @@ android:orientation="vertical"
 
 
 
-  <LinearLayout
-      android:layout_width="match_parent"
-      android:layout_height="45dp"
-      android:gravity="center"
-      android:background="#73ed68">
-      <TextView
-          android:layout_width="wrap_content"
-          android:layout_height="match_parent"
-          android:text="选者发布类型"
-          android:gravity="center"
-          />
-  </LinearLayout>
-<GridView
-    android:id="@+id/grid_view"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:numColumns="4">
 
-</GridView>
 </LinearLayout>
