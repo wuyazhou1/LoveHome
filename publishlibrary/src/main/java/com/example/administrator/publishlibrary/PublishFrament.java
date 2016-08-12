@@ -60,10 +60,6 @@ public class PublishFrament extends Fragment {
         gridview.setAdapter(adapter);
         return view;
     }
-
-
-
-
 }
 
 

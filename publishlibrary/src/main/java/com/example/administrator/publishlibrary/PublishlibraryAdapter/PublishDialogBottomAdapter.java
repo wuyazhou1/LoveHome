@@ -62,7 +62,7 @@ public class PublishDialogBottomAdapter extends BaseAdapter {
         holder.publishTv.setText(object);
     }
 
-    protected class ViewHolder {
+     protected class ViewHolder {
         private ImageView buttonCancle;
         private TextView publishTv;
 
