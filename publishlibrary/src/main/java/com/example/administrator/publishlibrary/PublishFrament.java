@@ -111,8 +111,6 @@ public class PublishFrament extends Fragment {
 
 
 
-
-
         cookChildTypeDatas.add(type1);
         cookChildTypeDatas.add(type2);
         cookChildTypeDatas.add(type3);
