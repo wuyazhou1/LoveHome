@@ -26,4 +26,5 @@ dependencies {
     compile project(':homelibrary')
     compile project(':minelibrary')
     compile project(':publishlibrary')
+    compile files('libs/android-async-http-1.4.8.jar')
 }
